@@ -13,12 +13,12 @@ startTime = time.clock()
 dateTimeStamp = time.strftime("%Y%m%d_%H%M")
 
 # NOTE! Substitute your own values for the following variables
-server_name = "server.tableauforhealthcare.com" # Name or IP address of your installation of Tableau Server
-user_name = "jcraycraft"    # User name to sign in as (e.g. admin)
-password = "password"
+server_name = "" # Name or IP address of your installation of Tableau Server
+user_name = ""    # User name to sign in as (e.g. admin)
+password = ""
 site_url_id = ""          # Site to sign in to. An empty string is used to specify the default site.
-root_path = '/Users/jcraycraft/Dropbox/Work/Coding/Python/Ochsner/' 			# Root directory
-inputFile = './filters.csv'
+root_path = "" 			# Root directory
+inputFile = "./filters.csv"
 
 # Read more about URL filter options here:  
 # https://onlinehelp.tableau.com/current/pro/desktop/en-us/embed_structure.html

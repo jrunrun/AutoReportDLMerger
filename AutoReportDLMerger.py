@@ -18,7 +18,7 @@ user_name = ""    # User name to sign in as (e.g. admin)
 password = ""
 site_url_id = ""          # Site to sign in to. An empty string is used to specify the default site.
 root_path = "" 			# Root directory
-inputFile = "./filters.csv"
+inputFile = "./filters.csv" #Location of Filters file
 
 # Read more about URL filter options here:  
 # https://onlinehelp.tableau.com/current/pro/desktop/en-us/embed_structure.html
